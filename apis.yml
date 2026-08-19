@@ -31,7 +31,7 @@ x-tier-reason: portfolio-lead
 x-note: Recorded domain conceptdrop.com 301-redirects to hiresource.io (Source / formerly
   ConceptDrop). The "Nexus AI" name appears to be a mismatch in the source VC-portfolio
   harvest; the domain resolves to a freelance talent platform with no public API.
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-20'
 tags:
