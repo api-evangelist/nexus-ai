@@ -32,6 +32,8 @@ accessModel:
   source: []
   generated: '2026-07-22'
   method: derived
+  source:
+  - {url: 'https://conceptdrop.com', status: 301, note: 'declared website redirects to https://www.hiresource.io/ — a different registrable domain (conceptdrop.com -> hiresource.io), possible rename or acquisition (probed 2026-09-03, roadmap#169)'}
 image: https://www.hiresource.io/wp-content/uploads/2024/03/Final-Source-Logos-03-300x300.png
 x-type: company
 x-source: vc-portfolio
